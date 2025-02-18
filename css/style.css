@@ -17,10 +17,12 @@ body{
 
 .screen{
     cursor: pointer;
-    width: 60%;
+    width: 600px;
+    height: 500px;
     background-color: bisque;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+
 }
 
 h1{
